@@ -1,0 +1,1141 @@
+# depslib dependency file v1.0
+1456578248 source:d:\codeblock\tablib\main.cpp
+	"main.h"
+
+1456631082 d:\codeblock\tablib\main.h
+	<windows.h>
+	"ta_func.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\frames\ta_frame.c
+	"ta_func.h"
+	"ta_frame_priv.h"
+	"ta_frame.h"
+
+1456539283 d:\codeblock\tablib\ta_abstract\frames\ta_func.h
+	"ta_common.h"
+	"ta_defs.h"
+
+1189827712 d:\codeblock\tablib\include\ta_common.h
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	"ta_defs.h"
+
+1189827712 d:\codeblock\tablib\include\ta_defs.h
+	<limits.h>
+
+1189827719 d:\codeblock\tablib\ta_abstract\ta_frame_priv.h
+	"ta_abstract.h"
+	"ta_magic_nb.h"
+
+1189827712 d:\codeblock\tablib\include\ta_abstract.h
+	"ta_common.h"
+
+1189827719 d:\codeblock\tablib\ta_common\ta_magic_nb.h
+
+1189827718 d:\codeblock\tablib\ta_abstract\frames\ta_frame.h
+	"ta_common.h"
+	"ta_frame_priv.h"
+
+1189827719 source:d:\codeblock\tablib\ta_abstract\ta_abstract.c
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	"ta_common.h"
+	"ta_memory.h"
+	"ta_abstract.h"
+	"ta_def_ui.h"
+	"ta_frame_priv.h"
+	<limits.h>
+
+1189827719 d:\codeblock\tablib\ta_common\ta_memory.h
+	"ta_common.h"
+	<stdlib.h>
+
+1189827719 d:\codeblock\tablib\ta_abstract\ta_def_ui.h
+	"ta_abstract.h"
+	"ta_frame_priv.h"
+	"ta_frame.h"
+
+1189827719 source:d:\codeblock\tablib\ta_abstract\ta_def_ui.c
+	<stdlib.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827719 source:d:\codeblock\tablib\ta_abstract\ta_func_api.c
+	"ta_abstract.h"
+
+1189827719 source:d:\codeblock\tablib\ta_abstract\ta_group_idx.c
+	<stddef.h>
+	"ta_def_ui.h"
+	"ta_abstract.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_a.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_b.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_c.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_d.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_e.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_f.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_g.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_h.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_i.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_j.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_k.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_l.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_m.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_n.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_o.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_p.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_q.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_r.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_s.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_t.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_u.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_v.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_w.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_x.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_y.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\codeblock\tablib\ta_abstract\tables\table_z.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827719 source:d:\codeblock\tablib\ta_common\ta_global.c
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ta_common.h"
+	"ta_magic_nb.h"
+	"ta_global.h"
+	"ta_func.h"
+
+1189827719 d:\codeblock\tablib\ta_common\ta_global.h
+	"ta_common.h"
+	"ta_func.h"
+
+1189827712 d:\codeblock\tablib\include\ta_func.h
+	"ta_common.h"
+	"ta_defs.h"
+
+1189827719 source:d:\codeblock\tablib\ta_common\ta_retcode.c
+	<ta_common.h>
+
+1189827719 source:d:\codeblock\tablib\ta_common\ta_version.c
+	<stddef.h>
+	<stdlib.h>
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_acos.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ad.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_add.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_adosc.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_adx.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_adxr.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_apo.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_aroon.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_aroonosc.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_asin.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_atan.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_atr.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_avgprice.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_bbands.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_beta.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_bop.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cci.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdl2crows.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdl3blackcrows.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdl3inside.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdl3linestrike.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdl3outside.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdl3starsinsouth.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdl3whitesoldiers.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlabandonedbaby.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdladvanceblock.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlbelthold.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlbreakaway.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlclosingmarubozu.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlconcealbabyswall.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdlcounterattack.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdldarkcloudcover.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdldoji.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdldojistar.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdldragonflydoji.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlengulfing.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdleveningdojistar.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdleveningstar.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdlgapsidesidewhite.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlgravestonedoji.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlhammer.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlhangingman.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlharami.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlharamicross.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlhighwave.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdlhikkake.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlhikkakemod.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlhomingpigeon.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlidentical3crows.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlinneck.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlinvertedhammer.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlkicking.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlkickingbylength.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlladderbottom.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdllongleggeddoji.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdllongline.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlmarubozu.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlmatchinglow.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlmathold.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlmorningdojistar.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlmorningstar.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlonneck.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlpiercing.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlrickshawman.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlrisefall3methods.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlseparatinglines.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlshootingstar.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlshortline.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdlspinningtop.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdlstalledpattern.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdlsticksandwich.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdltakuri.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdltasukigap.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlthrusting.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdltristar.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlunique3river.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cdlupsidegap2crows.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cdlxsidegap3methods.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ceil.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cmo.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_correl.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_cos.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_cosh.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_dema.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_div.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_dx.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ema.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_exp.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_floor.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ht_dcperiod.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_ht_dcphase.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ht_phasor.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_ht_sine.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_ht_trendline.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ht_trendmode.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_kama.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_linearreg.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_linearreg_angle.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_linearreg_intercept.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_linearreg_slope.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ln.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_log10.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ma.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_macd.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_macdext.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_macdfix.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_mama.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_mavp.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_max.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_maxindex.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_medprice.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_mfi.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_midpoint.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_midprice.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_min.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_minindex.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_minmax.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_minmaxindex.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_minus_di.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_minus_dm.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_mom.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_mult.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_natr.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_nvi.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_obv.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_plus_di.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_plus_dm.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_ppo.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_pvi.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_roc.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_rocp.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_rocr.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_rocr100.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_rsi.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_sar.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_sarext.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_sin.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_sinh.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_sma.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_sqrt.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_stddev.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_stoch.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_stochf.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_stochrsi.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_sub.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_sum.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_t3.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_tan.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_tanh.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_tema.c
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_trange.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_trima.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_trix.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_tsf.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_typprice.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_ultosc.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_utility.c
+	"TA-Lib-Core.h"
+	"ta_memory.h"
+	"ta_utility.h"
+	"ta_func.h"
+	"ta_memory.h"
+
+1189827716 d:\codeblock\tablib\ta_func\ta_utility.h
+	"ta_func.h"
+	"ta_global.h"
+
+1189827717 source:d:\codeblock\tablib\ta_func\ta_var.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_wclprice.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_willr.c
+
+1189827716 source:d:\codeblock\tablib\ta_func\ta_wma.c
+
+1189827717 source:d:\codeblock\tablib\tools\ta_regtest\ta_gdataclose.c
+
+1189827717 source:d:\codeblock\tablib\tools\ta_regtest\ta_gdatahigh.c
+
+1189827717 source:d:\codeblock\tablib\tools\ta_regtest\ta_gdatalow.c
+
+1189827717 source:d:\codeblock\tablib\tools\ta_regtest\ta_gdataopen.c
+
+1189827717 source:d:\codeblock\tablib\tools\ta_regtest\ta_regtest.c
+	"windows.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ta_test_priv.h"
+	"ta_test_func.h"
+	"ta_utility.h"
+
+1189827717 d:\codeblock\tablib\tools\ta_regtest\ta_test_priv.h
+	"ta_libc.h"
+	"ta_error_number.h"
+
+1189827712 d:\codeblock\tablib\include\ta_libc.h
+	"ta_common.h"
+	"ta_func.h"
+	"ta_abstract.h"
+
+1189827717 d:\codeblock\tablib\tools\ta_regtest\ta_error_number.h
+
+1189827717 d:\codeblock\tablib\tools\ta_regtest\ta_test_func.h
+
+1502194126 source:d:\projects\c++\tablib\main.cpp
+	"main.h"
+
+1502193978 d:\projects\c++\tablib\main.h
+	<windows.h>
+	"ta_func.h"
+	"ta_abstract.h"
+
+1189827712 d:\projects\c++\tablib\include\ta_func.h
+	"ta_common.h"
+	"ta_defs.h"
+
+1189827712 d:\projects\c++\tablib\include\ta_common.h
+	<stdio.h>
+	<limits.h>
+	<float.h>
+	"ta_defs.h"
+
+1189827712 d:\projects\c++\tablib\include\ta_defs.h
+	<limits.h>
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\frames\ta_frame.c
+	"ta_func.h"
+	"ta_frame_priv.h"
+	"ta_frame.h"
+
+1189827719 d:\projects\c++\tablib\ta_abstract\ta_frame_priv.h
+	"ta_abstract.h"
+	"ta_magic_nb.h"
+
+1189827712 d:\projects\c++\tablib\include\ta_abstract.h
+	"ta_common.h"
+
+1189827719 d:\projects\c++\tablib\ta_common\ta_magic_nb.h
+
+1189827718 d:\projects\c++\tablib\ta_abstract\frames\ta_frame.h
+	"ta_common.h"
+	"ta_frame_priv.h"
+
+1189827719 source:d:\projects\c++\tablib\ta_abstract\ta_abstract.c
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	"ta_common.h"
+	"ta_memory.h"
+	"ta_abstract.h"
+	"ta_def_ui.h"
+	"ta_frame_priv.h"
+	<limits.h>
+
+1189827719 d:\projects\c++\tablib\ta_common\ta_memory.h
+	"ta_common.h"
+	<stdlib.h>
+
+1189827719 d:\projects\c++\tablib\ta_abstract\ta_def_ui.h
+	"ta_abstract.h"
+	"ta_frame_priv.h"
+	"ta_frame.h"
+
+1189827719 source:d:\projects\c++\tablib\ta_abstract\ta_def_ui.c
+	<stdlib.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827719 source:d:\projects\c++\tablib\ta_abstract\ta_func_api.c
+	"ta_abstract.h"
+
+1189827719 source:d:\projects\c++\tablib\ta_abstract\ta_group_idx.c
+	<stddef.h>
+	"ta_def_ui.h"
+	"ta_abstract.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_a.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_b.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_c.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_d.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_e.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_f.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_g.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_h.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_i.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_j.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_k.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_l.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_m.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_n.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_o.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_p.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_q.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_r.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_s.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_t.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_u.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_v.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_w.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_x.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_y.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827718 source:d:\projects\c++\tablib\ta_abstract\tables\table_z.c
+	<stddef.h>
+	"ta_abstract.h"
+	"ta_def_ui.h"
+
+1189827719 source:d:\projects\c++\tablib\ta_common\ta_global.c
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ta_common.h"
+	"ta_magic_nb.h"
+	"ta_global.h"
+	"ta_func.h"
+
+1189827719 d:\projects\c++\tablib\ta_common\ta_global.h
+	"ta_common.h"
+	"ta_func.h"
+
+1189827719 source:d:\projects\c++\tablib\ta_common\ta_retcode.c
+	<ta_common.h>
+
+1189827719 source:d:\projects\c++\tablib\ta_common\ta_version.c
+	<stddef.h>
+	<stdlib.h>
+
+1502191375 source:d:\projects\c++\tablib\ta_func\ta_acos.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ad.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_add.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_adosc.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_adx.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_adxr.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_apo.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_aroon.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_aroonosc.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_asin.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_atan.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_atr.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_avgprice.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_bbands.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_beta.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_bop.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cci.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdl2crows.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdl3blackcrows.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdl3inside.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdl3linestrike.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdl3outside.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdl3starsinsouth.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdl3whitesoldiers.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlabandonedbaby.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdladvanceblock.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlbelthold.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlbreakaway.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlclosingmarubozu.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlconcealbabyswall.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdlcounterattack.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdldarkcloudcover.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdldoji.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdldojistar.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdldragonflydoji.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlengulfing.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdleveningdojistar.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdleveningstar.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdlgapsidesidewhite.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlgravestonedoji.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlhammer.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlhangingman.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlharami.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlharamicross.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlhighwave.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdlhikkake.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlhikkakemod.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlhomingpigeon.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlidentical3crows.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlinneck.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlinvertedhammer.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlkicking.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlkickingbylength.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlladderbottom.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdllongleggeddoji.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdllongline.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlmarubozu.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlmatchinglow.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlmathold.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlmorningdojistar.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlmorningstar.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlonneck.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlpiercing.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlrickshawman.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlrisefall3methods.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlseparatinglines.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlshootingstar.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlshortline.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdlspinningtop.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdlstalledpattern.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdlsticksandwich.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdltakuri.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdltasukigap.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlthrusting.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdltristar.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlunique3river.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cdlupsidegap2crows.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cdlxsidegap3methods.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ceil.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cmo.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_correl.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_cos.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_cosh.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_dema.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_div.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_dx.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ema.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_exp.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_floor.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ht_dcperiod.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_ht_dcphase.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ht_phasor.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_ht_sine.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_ht_trendline.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ht_trendmode.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_kama.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_linearreg.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_linearreg_angle.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_linearreg_intercept.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_linearreg_slope.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ln.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_log10.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ma.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_macd.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_macdext.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_macdfix.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_mama.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_mavp.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_max.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_maxindex.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_medprice.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_mfi.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_midpoint.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_midprice.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_min.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_minindex.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_minmax.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_minmaxindex.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_minus_di.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_minus_dm.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_mom.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_mult.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_natr.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_nvi.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_obv.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_plus_di.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_plus_dm.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_ppo.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_pvi.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_roc.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_rocp.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_rocr.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_rocr100.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_rsi.c
+
+1470927353 source:d:\projects\c++\tablib\ta_func\ta_sar.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_sarext.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_sin.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_sinh.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_sma.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_sqrt.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_stddev.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_stoch.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_stochf.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_stochrsi.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_sub.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_sum.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_t3.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_tan.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_tanh.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_tema.c
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_trange.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_trima.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_trix.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_tsf.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_typprice.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_ultosc.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_utility.c
+	"TA-Lib-Core.h"
+	"ta_memory.h"
+	"ta_utility.h"
+	"ta_func.h"
+	"ta_memory.h"
+
+1189827716 d:\projects\c++\tablib\ta_func\ta_utility.h
+	"ta_func.h"
+	"ta_global.h"
+
+1189827717 source:d:\projects\c++\tablib\ta_func\ta_var.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_wclprice.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_willr.c
+
+1189827716 source:d:\projects\c++\tablib\ta_func\ta_wma.c
+

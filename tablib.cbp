@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tablib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tablib" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="3" />
+				<Option compiler="gnu_gcc_compiler-x86_64" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-m64" />
+					<Add option="-g" />
+					<Add option="-DBUILD_DLL" />
+					<Add option="-DWIN32" />
+					<Add directory="ta_abstract" />
+					<Add directory="ta_common" />
+					<Add directory="ta_func" />
+					<Add directory="include" />
+					<Add directory="ta_abstract/frames" />
+					<Add directory="tools/ta_regtest" />
+				</Compiler>
+				<Linker>
+					<Add option="-m64" />
+					<Add library="user32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tablib" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-DBUILD_DLL" />
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="user32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-m64" />
+		</Compiler>
+		<Linker>
+			<Add option="-m64" />
+		</Linker>
+		<Unit filename="include/ta_abstract.h" />
+		<Unit filename="include/ta_common.h" />
+		<Unit filename="include/ta_defs.h" />
+		<Unit filename="include/ta_func.h" />
+		<Unit filename="include/ta_libc.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h" />
+		<Unit filename="ta_abstract/excel_glue.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="ta_abstract/frames/ta_frame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/frames/ta_frame.h" />
+		<Unit filename="ta_abstract/ta_abstract.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/ta_def_ui.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/ta_def_ui.h" />
+		<Unit filename="ta_abstract/ta_frame_priv.h" />
+		<Unit filename="ta_abstract/ta_func_api.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/ta_group_idx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/ta_java_defs.h" />
+		<Unit filename="ta_abstract/tables/table_a.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_c.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_d.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_e.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_f.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_g.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_h.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_i.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_j.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_k.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_l.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_m.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_n.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_o.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_p.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_q.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_r.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_t.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_u.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_v.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_w.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_x.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_y.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_abstract/tables/table_z.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_common/ta_global.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_common/ta_global.h" />
+		<Unit filename="ta_common/ta_magic_nb.h" />
+		<Unit filename="ta_common/ta_memory.h" />
+		<Unit filename="ta_common/ta_pragma.h" />
+		<Unit filename="ta_common/ta_retcode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_common/ta_version.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ACOS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_AD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ADD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ADOSC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ADX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ADXR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_APO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_AROON.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_AROONOSC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ASIN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ATAN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ATR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_AVGPRICE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_BBANDS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_BETA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_BOP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CCI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDL2CROWS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDL3BLACKCROWS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDL3INSIDE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDL3LINESTRIKE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDL3OUTSIDE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDL3STARSINSOUTH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDL3WHITESOLDIERS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLABANDONEDBABY.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLADVANCEBLOCK.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLBELTHOLD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLBREAKAWAY.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLCLOSINGMARUBOZU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLCONCEALBABYSWALL.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLCOUNTERATTACK.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLDARKCLOUDCOVER.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLDOJI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLDOJISTAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLDRAGONFLYDOJI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLENGULFING.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLEVENINGDOJISTAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLEVENINGSTAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLGAPSIDESIDEWHITE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLGRAVESTONEDOJI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHAMMER.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHANGINGMAN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHARAMI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHARAMICROSS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHIGHWAVE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHIKKAKE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHIKKAKEMOD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLHOMINGPIGEON.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLIDENTICAL3CROWS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLINNECK.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLINVERTEDHAMMER.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLKICKING.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLKICKINGBYLENGTH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLLADDERBOTTOM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLLONGLEGGEDDOJI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLLONGLINE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLMARUBOZU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLMATCHINGLOW.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLMATHOLD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLMORNINGDOJISTAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLMORNINGSTAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLONNECK.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLPIERCING.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLRICKSHAWMAN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLRISEFALL3METHODS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLSEPARATINGLINES.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLSHOOTINGSTAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLSHORTLINE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLSPINNINGTOP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLSTALLEDPATTERN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLSTICKSANDWICH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLTAKURI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLTASUKIGAP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLTHRUSTING.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLTRISTAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLUNIQUE3RIVER.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLUPSIDEGAP2CROWS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CDLXSIDEGAP3METHODS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CEIL.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CMO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_CORREL.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_COS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_COSH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_DEMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_DIV.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_DX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_EMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_EXP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_FLOOR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_HT_DCPERIOD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_HT_DCPHASE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_HT_PHASOR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_HT_SINE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_HT_TRENDLINE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_HT_TRENDMODE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_KAMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_LINEARREG.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_LINEARREG_ANGLE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_LINEARREG_INTERCEPT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_LINEARREG_SLOPE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_LN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_LOG10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MACD.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MACDEXT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MACDFIX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MAMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MAVP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MAX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MAXINDEX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MEDPRICE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MFI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MIDPOINT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MIDPRICE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MIN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MININDEX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MINMAX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MINMAXINDEX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MINUS_DI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MINUS_DM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MOM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_MULT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_NATR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_NVI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_OBV.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_PLUS_DI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_PLUS_DM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_PPO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_PVI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ROC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ROCP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ROCR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ROCR100.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_RSI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SAREXT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SIN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SINH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SQRT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_STDDEV.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_STOCH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_STOCHF.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_STOCHRSI.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SUB.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_SUM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_T3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TAN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TANH.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TEMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TRANGE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TRIMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TRIX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TSF.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_TYPPRICE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_ULTOSC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_VAR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_WCLPRICE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_WILLR.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_WMA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_utility.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ta_func/ta_utility.h" />
+		<Unit filename="tools/gen_code/gen_code.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/gen_code/java/Main.java">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/gen_code/java/PrettyCode.java">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_error_number.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_gDataClose.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_gDataHigh.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_gDataLow.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_gDataOpen.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_regtest.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_1in_1out.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_1in_2out.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_adx.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_bbands.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_candlestick.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_ma.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_macd.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_minmax.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_mom.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_per_ema.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_per_hl.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_per_hlc.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_per_hlcv.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_per_ohlc.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_po.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_rsi.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_sar.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_stddev.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_stoch.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_func/test_trange.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/ta_test_priv.h">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/test_abstract.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/test_data.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/test_internals.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="tools/ta_regtest/test_util.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

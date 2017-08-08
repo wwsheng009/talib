@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\ta_libc.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="594" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="include\ta_defs.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6337" topLine="248" />
+		</Cursor>
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="439" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="629" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_WMA.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8774" topLine="190" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_MA.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18811" topLine="413" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_SAR.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16480" topLine="402" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_SAREXT.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2468" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="tools\ta_regtest\ta_test_func\test_1in_1out.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2133" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="ta_common\ta_retcode.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3419" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_MIN.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9977" topLine="311" />
+		</Cursor>
+	</File>
+	<File name="ta_abstract\ta_abstract.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36664" topLine="1263" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_AROONOSC.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_DIV.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="120" topLine="161" />
+		</Cursor>
+	</File>
+	<File name="include\ta_func.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1646" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="ta_abstract\excel_glue.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1767" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ta_common.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4306" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tools\ta_regtest\test_abstract.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4932" topLine="153" />
+		</Cursor>
+	</File>
+	<File name="ta_abstract\frames\ta_frame.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="191588" topLine="3206" />
+		</Cursor>
+	</File>
+	<File name="include\ta_abstract.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19092" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="tools\gen_code\gen_code.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40472" topLine="1215" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_CDLSTICKSANDWICH.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11499" topLine="248" />
+		</Cursor>
+	</File>
+	<File name="ta_common\ta_global.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3101" topLine="65" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_EMA.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21660" topLine="431" />
+		</Cursor>
+	</File>
+	<File name="ta_abstract\tables\table_k.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="332" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_MACD.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12805" topLine="261" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_CCI.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="431" topLine="144" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_AD.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3462" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_MINUS_DM.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="288" />
+		</Cursor>
+	</File>
+	<File name="ta_abstract\ta_def_ui.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1941" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_utility.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8762" topLine="221" />
+		</Cursor>
+	</File>
+	<File name="ta_abstract\ta_group_idx.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12974" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="ta_func\ta_ACOS.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5325" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
